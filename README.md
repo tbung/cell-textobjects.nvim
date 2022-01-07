@@ -1,4 +1,4 @@
-# ipy-textobjects.nvim
+# cell-textobjects.nvim
 
 This plugin adds textobjects for code in a cell, i.e. code between two lines of comments
 containing a delimiter string.
